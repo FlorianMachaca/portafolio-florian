@@ -1,16 +1,94 @@
-# React + Vite
+# 👨‍💻 Portafolio Profesional — Florian Machaca Chacceri
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portafolio personal desarrollado para presentar mis proyectos, habilidades y experiencia en desarrollo de software.
 
-Currently, two official plugins are available:
+Soy estudiante de **Ingeniería de Sistemas**, interesado principalmente en desarrollo web, backend, bases de datos y construcción de soluciones de software orientadas a problemas reales.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Tecnologías
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Frontend
+- React
+- Vite
+- HTML5
+- CSS3
+- JavaScript
 
-## Expanding the ESLint configuration
+### Backend
+- Python
+- FastAPI
+- APIs REST
+- Java
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Base de datos
+- SQL Server
+- SQL
+
+### Herramientas
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 💼 Proyecto destacado
+
+### 🍦 GUSSA System
+
+Sistema web desarrollado para apoyar la gestión de **GUSSA Helados Artesanales**.
+
+El sistema permite centralizar procesos como:
+
+- Gestión de productos
+- Inventario
+- Compras
+- Pedidos
+- Ventas
+- Promociones
+- Reportes
+
+### Stack utilizado
+
+`React` · `Vite` · `FastAPI` · `Python` · `SQL Server` · `REST API`
+
+---
+
+## 📂 Portafolio
+
+El portafolio incluye:
+
+- Presentación profesional
+- Sobre mí
+- Habilidades técnicas
+- Proyectos
+- Información de contacto
+- CV
+- GitHub
+- LinkedIn
+
+---
+
+## 📬 Contacto
+
+**Florian Machaca Chacceri**
+
+📧 Correo: florianmachaca@unsch.edu.pe
+
+💻 GitHub:  
+https://github.com/FlorianMachaca
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/florian-machaca-chacceri-4460b6388/
+
+📍 Ayacucho, Perú
+
+---
+
+## 🌐 Demo
+
+Próximamente disponible.
+
+---
+
+Desarrollado por **Florian Machaca Chacceri**.
