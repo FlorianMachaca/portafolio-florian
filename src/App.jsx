@@ -6,6 +6,9 @@ import "./App.css";
 
 const GITHUB_URL = "https://github.com/FlorianMachaca";
 
+const GUSSA_REPO_URL =
+  "https://github.com/FlorianMachaca/gussa-system";
+
 const LINKEDIN_URL =
   "https://www.linkedin.com/in/florian-machaca-chacceri-4460b6388/";
 
@@ -427,7 +430,9 @@ function App() {
 
         <div className="projects-grid">
 
-          {/* GUSSA */}
+          {/* =========================
+              GUSSA
+          ========================= */}
 
           <article className="project-card featured-project">
             <div className="project-number">
@@ -487,7 +492,7 @@ function App() {
                 </a>
 
                 <a
-                  href={GITHUB_URL}
+                  href={GUSSA_REPO_URL}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="project-link secondary-link"
@@ -526,7 +531,9 @@ function App() {
             </div>
           </article>
 
-          {/* PROYECTO 2 */}
+          {/* =========================
+              PROYECTO 2
+          ========================= */}
 
           <article className="project-card">
             <div className="project-number">
@@ -568,7 +575,9 @@ function App() {
             </div>
           </article>
 
-          {/* PROYECTO 3 */}
+          {/* =========================
+              PROYECTO 3
+          ========================= */}
 
           <article className="project-card">
             <div className="project-number">
