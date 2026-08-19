@@ -9,6 +9,9 @@ const GITHUB_URL = "https://github.com/FlorianMachaca";
 const GUSSA_REPO_URL =
   "https://github.com/FlorianMachaca/gussa-system";
 
+const CERAMICAS_REPO_URL =
+  "https://github.com/FlorianMachaca/ceramicas-wari-api";
+
 const LINKEDIN_URL =
   "https://www.linkedin.com/in/florian-machaca-chacceri-4460b6388/";
 
@@ -532,7 +535,7 @@ function App() {
           </article>
 
           {/* =========================
-              PROYECTO 2
+              CERÁMICAS WARI API
           ========================= */}
 
           <article className="project-card">
@@ -546,25 +549,44 @@ function App() {
               </span>
 
               <h3>
-                API de Gestión
+                Cerámicas Wari API
               </h3>
 
               <p>
-                Backend orientado a operaciones CRUD, validación de datos,
-                manejo de rutas y comunicación con bases de datos mediante
-                servicios REST.
+                API REST desarrollada para gestionar productos, clientes,
+                pedidos, producción, proveedores, materias primas, pagos
+                y exportaciones de un negocio de cerámica artesanal.
               </p>
 
+              <div className="project-highlights">
+                <div>
+                  <strong>CRUD</strong>
+                  <span>10 módulos de gestión</span>
+                </div>
+
+                <div>
+                  <strong>API REST</strong>
+                  <span>Validaciones y errores HTTP</span>
+                </div>
+
+                <div>
+                  <strong>Swagger</strong>
+                  <span>Documentación interactiva</span>
+                </div>
+              </div>
+
               <div className="project-tech">
-                <span>Python</span>
-                <span>FastAPI</span>
-                <span>SQL</span>
-                <span>REST</span>
+                <span>Java 21</span>
+                <span>Spring Boot</span>
+                <span>Spring Data JPA</span>
+                <span>SQL Server</span>
+                <span>Swagger</span>
+                <span>JUnit</span>
               </div>
 
               <div className="project-links">
                 <a
-                  href={GITHUB_URL}
+                  href={CERAMICAS_REPO_URL}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="project-link"
